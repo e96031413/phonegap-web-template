@@ -1,4 +1,5 @@
-# phonegap-web-template(PhoneGAP網頁APP：以博客來網頁為例)
+# phonegap-web-template
+# PhoneGAP網頁APP：以博客來網頁為例
 A website template for Adobe PhoneGap Build
 
 - GitHub: https://github.com/pulipulichen/phonegap-web-template
